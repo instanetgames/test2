@@ -232,7 +232,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     sty.h1
                   )}
                 >
-                  {"Hey there, Anna here \ud83d\udc4b"}
+                  {"Hey there, Frank here \ud83d\udc4b"}
                 </h1>
                 <div
                   className={classNames(
@@ -241,7 +241,9 @@ function PlasmicHomepage__RenderFunc(props: {
                     sty.text__ltqJg
                   )}
                 >
-                  {"Web designer and product designer for hire."}
+                  {
+                    "Web designer and product designer available for whoring out."
+                  }
                 </div>
                 <div
                   className={classNames(
@@ -250,7 +252,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     sty.text__es5NZ
                   )}
                 >
-                  {"Enter some text"}
+                  {"Enter some text, or dont.. i dont care at all!"}
                 </div>
               </div>
               <PlasmicLink__

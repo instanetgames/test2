@@ -393,7 +393,7 @@ function PlasmicFooter__RenderFunc(props: {
                 sty.text___1IXoY
               )}
             >
-              {"Built by Anna Wu"}
+              {"Built by Anna Wu Hu"}
             </div>
           </div>
           <div className={classNames(projectcss.all, sty.column__nYaJ)}>
@@ -406,7 +406,7 @@ function PlasmicFooter__RenderFunc(props: {
             >
               {hasVariant(globalVariants, "screen", "mobileOnly")
                 ? "Made in Plasmic"
-                : "Made in Plasmic"}
+                : "Made with Jellyfish urine"}
             </div>
           </div>
         </div>

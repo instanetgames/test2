@@ -102,6 +102,7 @@
   margin-bottom: 32px;
   align-self: flex-start;
   position: relative;
+  padding-top: 0px;
   min-width: 0;
 }
 @media (min-width: 0px) and (max-width: 768px) {

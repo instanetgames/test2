@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "files",
@@ -41,7 +41,8 @@
           "componentImportPath": "@plasmicpkgs/react-awesome-reveal"
         }
       ],
-      "customFunctions": []
+      "customFunctions": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "7nJ7UcFmq9UzB6eXfC5z4a",
@@ -63,12 +64,13 @@
           "componentImportPath": "@plasmicpkgs/plasmic-nav"
         }
       ],
-      "customFunctions": []
+      "customFunctions": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "rYDJGJn2i6YbHHAjxPUaFJ",
       "projectApiToken": "W3q9aZnSyCrLf7lFNuf5yQA9kCDvCv6SXtjcmEAC4V1ck4dSyfsTmMHkser9QuxPI2Te1IzKKcVAlIZM9NQ",
-      "projectName": "Beginner's guide: website in 3 minutes",
+      "projectName": "Franks Shit",
       "version": "latest",
       "cssFilePath": "plasmic/beginners_guide_website_in_3_minutes/plasmic.module.css",
       "components": [
